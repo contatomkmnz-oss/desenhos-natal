@@ -1,0 +1,1 @@
+import{j as e}from"./index-Ko8OfhHe.js";const r=()=>e.jsx("footer",{id:"footer",className:"py-10 px-6 border-t border-zinc-900 text-center text-zinc-500 text-sm bg-black",children:e.jsxs("p",{children:["© ",new Date().getFullYear()," Nostalgia Digital. Todos os direitos reservados."]})});export{r as default};
